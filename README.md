@@ -1,2 +1,2 @@
 # CRUD-PHP
- CRUD sing PHP OOP with autoloading composer
+ CRUD using PHP OOP with autoloading composer
